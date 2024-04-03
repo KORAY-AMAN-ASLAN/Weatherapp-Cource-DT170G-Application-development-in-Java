@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+    <string name="weather_app">Weather App</string>
+    <string name="temperature_value">Temperature: %1$.1f celsius</string>
+    <string name="windspeed_value">WindSpeed: %1$.1f mps, toward %2$s</string>
+    <string name="cloudiness_value">Cloudiness: %1$.1f%%</string>
+    <string name="precipitation_value">Precipitation: Between %1$.1f mm and %2$.1f mm</string>
+    <string name="refresh">Refresh</string>
+</resources>
